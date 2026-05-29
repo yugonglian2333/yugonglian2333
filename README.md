@@ -83,8 +83,8 @@ WebGIS 开发
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0a0a0f?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
 
 <br>
-### GIS类技能
 
+### GIS类技能
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
