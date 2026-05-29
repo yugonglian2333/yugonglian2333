@@ -68,6 +68,15 @@ WebGIS 开发
 
 ![Frontend](https://skillicons.dev/icons?i=vue,react,vite,nextjs,nodejs,tailwind,vercel,cloudflare&theme=dark&perline=8)
 
+### AI 与效率工具
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0a0a0f?style=for-the-badge&logo=openai&logoColor=00fff2)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0f?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Dify](https://img.shields.io/badge/Dify-0a0a0f?style=for-the-badge&logo=abstract&logoColor=00fff2)
+![AI Agent](https://img.shields.io/badge/AI_Agent-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0a0a0f?style=for-the-badge&logo=openai&logoColor=7000ff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0a0a0f?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
+
 ### 工具
 
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux&theme=dark&perline=8)
