@@ -76,8 +76,8 @@ WebGIS 开发
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![AMap API](https://img.shields.io/badge/AMap_API-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white)
+![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![高德API](https://img.shields.io/badge/AMap_API-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
