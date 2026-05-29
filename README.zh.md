@@ -97,10 +97,6 @@ WebGIS 开发
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=yugonglian2333&style=for-the-badge&color=7000ff&label=%E8%AE%BF%E5%AE%A2)
-
-<br>
-
-> 保持学习，保持构建，保持对世界的好奇。
+> 热爱生活、存在先于本质、他人即地狱
 
 </div>
