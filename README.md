@@ -105,56 +105,6 @@ Web Development
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true">
-  <img height="165" src="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true&theme=tokyonight" alt="GitHub streak">
-</picture>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugonglian2333&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&theme=minimal&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true" width="100%" alt="Activity Graph">
-  </picture>
-</div>
-
----
-
-## 🌱 Now Learning
-
-<div align="center">
-
-![Dify](https://img.shields.io/badge/Dify-0a0a0f?style=for-the-badge&logo=abstract&logoColor=00fff2)
-![AI Agent](https://img.shields.io/badge/AI_Agent-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
-![WebGIS](https://img.shields.io/badge/WebGIS_Project-0a0a0f?style=for-the-badge&logo=mapbox&logoColor=00fff2)
-![Vercel](https://img.shields.io/badge/Vercel_Deployment-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Basics-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=yugonglian2333&style=for-the-badge&color=7000ff&label=PROFILE+VIEWS)
