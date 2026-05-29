@@ -21,10 +21,10 @@
 ## 👨‍💻 关于我
 
 - 🎓 GIS / 土地工程背景，关注空间数据分析、生态韧性与城市绿色空间。
-- 🗺️ 正在学习 **WebGIS、地图可视化、API 调用和前端项目开发**。
-- 🤖 关注 **Dify、AI Agent、提示词工程和 AI 应用落地**。
+- 🗺️ 正在学习 **WebGIS、地图可视化、Agent开发和前端项目开发**。
+- 🤖 关注 **LLM、AI Agent、提示词工程和 AI 应用落地**。
 - 🌍 正在尝试做旅游 APP、地图服务、空间数据可视化等小项目。
-- ₿ 对 Bitcoin、Web3 和去中心化技术长期感兴趣。
+- ₿   对 Bitcoin、Web3 和去中心化技术长期感兴趣。
 - 🚀 目标是把 **GIS + AI + Web 开发** 结合起来，做真正能落地的项目。
 
 ---
@@ -40,17 +40,18 @@ GIS / WebGIS
 └─ 旅游地图应用
 
 AI 应用
-├─ Dify
+├─ LLM
 ├─ AI Agent
 ├─ 提示词工程
-└─ API 项目开发
+└─ harness
 
-Web 开发
+WebGIS 开发
 ├─ Vue / React
 ├─ Vite
 ├─ Node.js 基础
-├─ GitHub 工作流
-└─ Vercel / Cloudflare 部署
+├─ cesium
+└─ openlayer
+
 ```
 
 ---
@@ -98,12 +99,12 @@ Web 开发
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=雨宫莲&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-<img height="165" src="https://streak-stats.demolab.com/?user=雨宫莲&hide_border=true&theme=tokyonight" alt="GitHub streak">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+<img height="165" src="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true&theme=tokyonight" alt="GitHub streak">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=雨宫莲&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugonglian2333&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
 
@@ -125,7 +126,7 @@ Web 开发
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=雨宫莲&style=for-the-badge&color=7000ff&label=%E8%AE%BF%E5%AE%A2)
+![Visitors](https://komarev.com/ghpvc/?username=yugonglian2333&style=for-the-badge&color=7000ff&label=%E8%AE%BF%E5%AE%A2)
 
 <br>
 

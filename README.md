@@ -33,7 +33,7 @@
 
 - 🎓 GIS / Land Engineering background, interested in spatial data and ecological resilience.
 - 🗺️ Learning **WebGIS**, map visualization, API integration, and front-end development.
-- 🤖 Exploring **AI applications**, Dify workflows, agents, and practical project building.
+- 🤖 Exploring **Agent**, Dify workflows, agents, and practical project building.
 - 🌍 Building small projects related to tourism apps, maps, and data visualization.
 - ₿ Long-term believer in Bitcoin and decentralized technology.
 - 🚀 Goal: combine **GIS + AI + Web development** to build useful real-world tools.
@@ -110,20 +110,20 @@ Web Development
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=雨宫莲&show_icons=true&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=雨宫莲&show_icons=true&hide_border=true&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=雨宫莲&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=default">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yugonglian2333&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=雨宫莲&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=雨宫莲&hide_border=true">
-  <img height="165" src="https://streak-stats.demolab.com/?user=雨宫莲&hide_border=true&theme=tokyonight" alt="GitHub streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true">
+  <img height="165" src="https://streak-stats.demolab.com/?user=yugonglian2333&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </picture>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=雨宫莲&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugonglian2333&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
 
@@ -133,9 +133,9 @@ Web Development
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=雨宫莲&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=雨宫莲&theme=minimal&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=雨宫莲&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true" width="100%" alt="Activity Graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&theme=minimal&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugonglian2333&hide_border=true&bg_color=0a0a0f&color=00fff2&line=ff00ff&point=7000ff&area_color=7000ff&area=true" width="100%" alt="Activity Graph">
   </picture>
 </div>
 
@@ -157,7 +157,7 @@ Web Development
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=雨宫莲&style=for-the-badge&color=7000ff&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=yugonglian2333&style=for-the-badge&color=7000ff&label=PROFILE+VIEWS)
 
 <br>
 
