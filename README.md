@@ -1,7 +1,16 @@
 <div align="right">
   <a href="./REANDME.en.md">🌐 EN</a> | <strong>中文说明</strong>
 </div>
+<!-- TYPING SVG -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=820&height=50&lines=GIS+%C3%97+WebGIS+%C3%97+AI;Mapping+the+world+with+code;Building+useful+projects+step+by+step">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=820&height=50&lines=GIS+%C3%97+WebGIS+%C3%97+AI;Mapping+the+world+with+code;Building+useful+projects+step+by+step">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=820&height=50&lines=GIS+%C3%97+WebGIS+%C3%97+AI;Mapping+the+world+with+code;Building+useful+projects+step+by+step" alt="Typing SVG">
+  </picture>
+</div>
 
+<br>
 <div align="center">
 
 # 雨宫莲的 GitHub 主页 👋
