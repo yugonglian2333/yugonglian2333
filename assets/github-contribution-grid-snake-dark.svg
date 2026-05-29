@@ -1,0 +1,8 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" rx="18" fill="#0a0a0f"/>
+  <path d="M80 115 C170 40, 270 190, 370 115 S570 40, 670 115 S780 190, 830 115" stroke="#00fff2" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="825" cy="105" r="5" fill="#e5e7eb"/>
+  <circle cx="825" cy="125" r="5" fill="#e5e7eb"/>
+  <text x="450" y="80" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="24" font-weight="700" fill="#e5e7eb">Contribution Snake Placeholder</text>
+  <text x="450" y="150" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#e5e7eb" opacity="0.78">Run GitHub Actions → Generate Contribution Snake</text>
+</svg>

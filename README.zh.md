@@ -1,0 +1,134 @@
+<div align="right">
+  <a href="./README.md">🌐 Main</a> | <strong>中文说明</strong>
+</div>
+
+<div align="center">
+
+# 雨宫莲的 GitHub 主页 👋
+
+### GIS 专业学生 · WebGIS 学习者 · AI 应用实践者 · Bitcoin Believer
+
+![GIS](https://img.shields.io/badge/GIS-0a0a0f?style=for-the-badge&logo=googleearth&logoColor=00fff2)
+![WebGIS](https://img.shields.io/badge/WebGIS-0a0a0f?style=for-the-badge&logo=mapbox&logoColor=00fff2)
+![遥感](https://img.shields.io/badge/Remote_Sensing-0a0a0f?style=for-the-badge&logo=planet&logoColor=00fff2)
+![AI 应用](https://img.shields.io/badge/AI_Applications-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-0a0a0f?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
+
+</div>
+
+---
+
+## 👨‍💻 关于我
+
+- 🎓 GIS / 土地工程背景，关注空间数据分析、生态韧性与城市绿色空间。
+- 🗺️ 正在学习 **WebGIS、地图可视化、API 调用和前端项目开发**。
+- 🤖 关注 **Dify、AI Agent、提示词工程和 AI 应用落地**。
+- 🌍 正在尝试做旅游 APP、地图服务、空间数据可视化等小项目。
+- ₿ 对 Bitcoin、Web3 和去中心化技术长期感兴趣。
+- 🚀 目标是把 **GIS + AI + Web 开发** 结合起来，做真正能落地的项目。
+
+---
+
+## 🧭 当前学习方向
+
+```txt
+GIS / WebGIS
+├─ 空间分析
+├─ 遥感数据处理
+├─ 地图可视化
+├─ 高德 / 地图 API 调用
+└─ 旅游地图应用
+
+AI 应用
+├─ Dify
+├─ AI Agent
+├─ 提示词工程
+└─ API 项目开发
+
+Web 开发
+├─ Vue / React
+├─ Vite
+├─ Node.js 基础
+├─ GitHub 工作流
+└─ Vercel / Cloudflare 部署
+```
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+### 语言
+
+![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,md&theme=dark&perline=8)
+
+### 前端与部署
+
+![Frontend](https://skillicons.dev/icons?i=vue,react,vite,nextjs,nodejs,tailwind,vercel,cloudflare&theme=dark&perline=8)
+
+### 工具
+
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux&theme=dark&perline=8)
+
+<br>
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![AMap API](https://img.shields.io/badge/AMap_API-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 贪吃蛇贡献图
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake-light.svg">
+    <img alt="github contribution snake animation" src="./assets/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=雨宫莲&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+<img height="165" src="https://streak-stats.demolab.com/?user=雨宫莲&hide_border=true&theme=tokyonight" alt="GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=雨宫莲&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+---
+
+## 🌱 正在学习
+
+<div align="center">
+
+![Dify](https://img.shields.io/badge/Dify-0a0a0f?style=for-the-badge&logo=abstract&logoColor=00fff2)
+![AI Agent](https://img.shields.io/badge/AI_Agent-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
+![WebGIS](https://img.shields.io/badge/WebGIS_Project-0a0a0f?style=for-the-badge&logo=mapbox&logoColor=00fff2)
+![Vercel](https://img.shields.io/badge/Vercel_Deployment-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Basics-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=雨宫莲&style=for-the-badge&color=7000ff&label=%E8%AE%BF%E5%AE%A2)
+
+<br>
+
+> 保持学习，保持构建，保持对世界的好奇。
+
+</div>
