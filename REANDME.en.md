@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.zh.md">🌐 中文版</a> | <strong>EN / Main</strong>
+  <a href="./README.zh.md">🌐 中文版</a> | <strong>EN</strong>
 </div>
 
 <!-- TYPING SVG -->
