@@ -84,12 +84,12 @@ Web Development
 
 ### AI Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0a0a0f?style=for-the-badge&logo=openai&logoColor=00fff2)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0f?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Dify](https://img.shields.io/badge/Dify-0a0a0f?style=for-the-badge&logo=abstract&logoColor=00fff2)
-![AI Agent](https://img.shields.io/badge/AI_Agent-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0a0a0f?style=for-the-badge&logo=openai&logoColor=7000ff)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0a0a0f?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/Claude_Code-7000ff?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-00fff2?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white)
+
 <br>
 ### GIS
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=arcgis&logoColor=white)
