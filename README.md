@@ -114,9 +114,9 @@ WebGIS 开发
 
 <div align="center">
 
-<p align="center">
-  <b>🌿 热爱生活</b> · <i>存在先于本质</i> · <code>他人即地狱</code>
-</p>
+<h2 align="center">
+  🌿 <b>热爱生活</b> · <i>存在先于本质</i> · <code>他人即地狱</code> 🌏
+</h2>
 
 
 </div>
