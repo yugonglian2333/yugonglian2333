@@ -101,7 +101,7 @@ WebGIS 开发
 
 ---
 
-## 🐍 贪吃蛇贡献图
+##  
 
 <div align="center">
   <picture>
