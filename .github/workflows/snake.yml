@@ -9,7 +9,7 @@ on:
       - main
     paths-ignore:
       - "assets/**"
-      - "README.zh.md"
+      - "README.en.md"
 
 permissions:
   contents: write

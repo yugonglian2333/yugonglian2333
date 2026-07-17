@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.en.md">EN</a> | <strong>中文</strong>
+  <a href="./README.md">中文</a> | <strong>EN</strong>
 </div>
 
 <!-- TYPING SVG -->
@@ -15,12 +15,12 @@
 
 <div align="center">
 
-# 你好，我是雨宫莲 👋
+# Hi, I'm 雨宫莲 👋
 
-<p><strong>GIS × AI × 产品开发</strong></p>
+<p><strong>GIS × AI × Product Engineering</strong></p>
 
-有 GIS 背景的产品开发者，正在构建 **WayLog** 与 **Saymore**，<br>
-探索人与空间、想法和软件之间更自然的交互方式。
+A product developer with a GIS background, currently building **WayLog** and **Saymore**.<br>
+I explore more natural ways for people to interact with places, ideas, and software.
 
 ![GIS](https://img.shields.io/badge/GIS-0a0a0f?style=for-the-badge&logo=googleearth&logoColor=00fff2)
 ![AI Applications](https://img.shields.io/badge/AI_Applications-0a0a0f?style=for-the-badge&logo=openai&logoColor=ff00ff)
@@ -31,21 +31,21 @@
 
 ---
 
-## 🚀 主打项目
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ WayLog · 一路记</h3>
-      <p>围绕旅行记录与地图体验构建的产品，让旅途中的地点、行程与回忆更好地被记录和组织。</p>
-      <p><strong>GIS · WebGIS · 地图体验 · 旅行产品</strong></p>
-      <a href="https://waylog.top">访问官网</a>
+      <h3>🗺️ WayLog</h3>
+      <p>A product for travel journaling and map-based experiences, designed to organize the places, itineraries, and memories that shape a journey.</p>
+      <p><strong>GIS · WebGIS · Maps · Travel</strong></p>
+      <a href="https://waylog.top">Visit website</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ Saymore</h3>
-      <p>本地优先、模型服务商无关、可以在任意应用中工作的开源语音输入工具。目前正在优先推进 macOS 版本。</p>
+      <p>An open-source, local-first, provider-agnostic voice input tool that works across applications. The macOS version is currently the first priority.</p>
       <p><strong>Rust · Slint · Local-first · ASR · Desktop</strong></p>
-      <a href="https://github.com/yugonglian2333/Saymore">查看源码</a>
+      <a href="https://github.com/yugonglian2333/Saymore">View source</a>
       · <code>In development</code>
     </td>
   </tr>
@@ -53,45 +53,45 @@
 
 ---
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-- 🎓 GIS / 土地工程背景，关注空间数据、地图体验和真实世界问题。
-- 🛠️ 正在构建 WayLog 与 Saymore，把 AI、空间技术和产品工程落到实际软件中。
-- 🦀 最近专注于 Rust 原生桌面开发、AI 输入体验和可靠的软件架构。
-- 🌍 持续探索 WebGIS、地图可视化和空间数据在消费产品中的应用。
-- ₿ 对 Bitcoin、Web3 和去中心化技术长期感兴趣。
+- 🎓 I have a background in GIS and Land Engineering, with an interest in spatial data, map experiences, and real-world problems.
+- 🛠️ I am building WayLog and Saymore to turn AI, spatial technology, and product engineering into practical software.
+- 🦀 My current focus is native desktop development with Rust, AI input experiences, and reliable software architecture.
+- 🌍 I continue to explore WebGIS, map visualization, and spatial data in consumer products.
+- ₿ I have a long-term interest in Bitcoin, Web3, and decentralized technology.
 
 ---
 
-## 🔭 当前关注
+## 🔭 Current Focus
 
 ```text
-产品
-├─ WayLog：旅行记录与地图体验
-└─ Saymore：本地优先的跨应用语音输入
+Products
+├─ WayLog: travel journaling and map experiences
+└─ Saymore: local-first, cross-application voice input
 
-工程
-├─ Rust 原生桌面应用
-├─ ASR / LLM Provider 架构
-├─ WebGIS 与空间可视化
-└─ AI 辅助的软件工程工作流
+Engineering
+├─ Native desktop applications with Rust
+├─ ASR / LLM provider architecture
+├─ WebGIS and spatial visualization
+└─ AI-assisted software engineering workflows
 ```
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 语言
+### Languages
 
 ![Languages](https://skillicons.dev/icons?i=rust,python,js,ts,html,css&theme=dark&perline=8)
 
-### Web 与产品开发
+### Web & Product Development
 
 ![Web](https://skillicons.dev/icons?i=react,vue,astro,vite,nextjs,nodejs,tailwind,vercel&theme=dark&perline=8)
 
-### 原生桌面与 AI
+### Native Desktop & AI
 
 ![Slint](https://img.shields.io/badge/Slint-2379F4?style=for-the-badge&logo=slint&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -105,7 +105,7 @@
 ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![AMap API](https://img.shields.io/badge/AMap_API-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### 工具
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux&theme=dark&perline=8)
 
@@ -113,7 +113,7 @@
 
 ---
 
-## 🐍 贡献轨迹
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -127,6 +127,6 @@
 
 <div align="center">
 
-<h2>热爱生活 · 存在先于本质 · 他人即地狱</h2>
+<h2>Love life · Existence precedes essence · Hell is other people</h2>
 
 </div>
